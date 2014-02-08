@@ -1,8 +1,23 @@
 es:
-  email: 
-  grading_system_login: 
-  i_am_a_parent_or_guardian: 
-  i_am_a_student_or_teacher: 
-  login_choose_type_of_user: 
-  password: 
-  sign_in: 
+  add_edit_students_of_parent: Agregar / Editar Estudiantes del Padre
+  assigned_homework: Tareas Asignadas
+  back: Volver
+  class_schedule: Horario de Clases
+  disciplinary_items: Notas disciplinarias
+  due: Debido
+  email: Correo Electrónico
+  grading_system_login: Ingresar al Sistema de Calificaciones
+  home: Inicio
+  i_am_a_parent_or_guardian: Soy un padre, madre o apoderado
+  i_am_a_student_or_teacher: Soy un estudiante o un profesor(a) y quiero conectarme usando mi cuenta de cambridge.edu.bo
+  login_choose_type_of_user: ! 'Por favor, elegir el tipo de usuario:'
+  memos: Memos
+  my_students: Mis Estudiantes
+  navigation: Navegación
+  no_assigned_subjects: Actualmente no hay sujetos asignados en el sistema para este profesor(a).
+  password: Contraseña
+  sign_in: Ingresar
+  subjects: Sujetos
+  there_are_no_grades: No hay notas en el sistema para este estudiante.
+  this_student_has_no_homework: Este estudiante no tiene tareas pendientes.
+  welcome_to_cambridge_college: Bienvenido a Cambridge College

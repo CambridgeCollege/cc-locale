@@ -1,8 +1,23 @@
 en:
+  add_edit_students_of_parent: Add/Edit Students of Parent
+  assigned_homework: Assigned Homework
+  back: Back
+  class_schedule: Class Schedule
+  disciplinary_items: Disciplinary Items
+  due: Due
   email: ! 'Email:'
   grading_system_login: Grading System Login
+  home: Home
   i_am_a_parent_or_guardian: I am a Parent or Guardian
   i_am_a_student_or_teacher: I am a Student or Teacher with an @cambridge.edu.bo address
   login_choose_type_of_user: ! 'Please choose which type of user you are:'
+  memos: Memos
+  my_students: My Students
+  navigation: Navigation
+  no_assigned_subjects: There are currently no assigned subjects in the system for this teacher.
   password: ! 'Password:'
   sign_in: Sign In
+  subjects: Subjects
+  there_are_no_grades: There are currently have no grades in the system for this student.
+  this_student_has_no_homework: This student currently has no homework items becoming due.
+  welcome_to_cambridge_college: Welcome to Cambridge College
