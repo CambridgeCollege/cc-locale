@@ -7,10 +7,12 @@ Gem::Specification.new do |s|
   s.description = "Locales for the Cambridge College Grading System"
   s.authors     = ["Paul Trippett"]
   s.email       = 'pault@cambridge.edu.bo'
-  s.files       = ["lib/locales/en.yml","lib/locales/es.yml","lib/locales/pt.yml"]
   s.homepage    =
     'http://www.cambridge.edu.bo/'
   s.license       = 'MIT'
+
+  s.files         = `git ls-files`.split("\n")
+  s.require_paths = ["lib"]
   
   s.add_development_dependency "rspec"
   s.add_development_dependency "bundler"
