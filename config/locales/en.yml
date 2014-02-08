@@ -1,0 +1,8 @@
+en:
+  email: ! 'Email:'
+  grading_system_login: Grading System Login
+  i_am_a_parent_or_guardian: I am a Parent or Guardian
+  i_am_a_student_or_teacher: I am a Student or Teacher with an @cambridge.edu.bo address
+  login_choose_type_of_user: ! 'Please choose which type of user you are:'
+  password: ! 'Password:'
+  sign_in: Sign In
