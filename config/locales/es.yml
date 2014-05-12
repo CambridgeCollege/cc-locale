@@ -3,9 +3,12 @@ es:
   assigned_homework: Tareas Asignadas
   back: Volver
   class_schedule: Horario de Clases
+  confirm_new_password: Confirmar contraseña nueva
   disciplinary_items: Notas disciplinarias
   due: Debido
   email: Correo Electrónico
+  forgotten_password: ¿Has olvidado tu contraseña?
+  forgotten_password_text: Introduce tu correo electrónico y le enviaremos un enlace que le permitirá restablecer su contraseña
   grading_system_login: Ingresar al Sistema de Calificaciones
   home: Inicio
   i_am_a_parent_or_guardian: Soy un padre, madre o apoderado
@@ -14,8 +17,11 @@ es:
   memos: Memos
   my_students: Mis Estudiantes
   navigation: Navegación
+  new_password: Contraseña nueva
   no_assigned_subjects: Actualmente no hay sujetos asignados en el sistema para este profesor(a).
   password: Contraseña
+  reset_your_password: Restablecer su contraseña
+  send_me_password_reset_instructions: Mándame las instrucciones de restablecimiento de contraseña
   sign_in: Ingresar
   subjects: Sujetos
   there_are_no_grades: No hay notas en el sistema para este estudiante.
